@@ -20,6 +20,8 @@ Before starting with ColdBox, ensure you have:
 - **CommandBox**: ColdBox's CLI tool for development
 - **Web Server**: Apache, IIS, or built-in server
 - **Database**: MySQL, PostgreSQL, SQL Server, or similar (optional)
+
+  
 (NOTE: Plase ensure that you download the latest version for it. These versions as per JUNE 2025)
 
 ## Installation
